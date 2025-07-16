@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 from plotly.subplots import make_subplots
 
-st.markdown('<h1 style= "text-align:center; color: #4169E1 ;">Univariate Analysis</h1>', unsafe_allow_html= True)
 
 
 df = pd.read_csv('df.csv')
