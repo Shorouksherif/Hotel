@@ -3,3 +3,4 @@ matplotlib
 scikit-learn==1.6.1
 joblib==1.5.1
 category_encoders
+xgboost
